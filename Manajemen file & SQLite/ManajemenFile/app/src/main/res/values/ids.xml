@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main2" type="id">activity_main2</item>
+    <item name="getText" type="id">getText</item>
+    <item name="button3" type="id">button3\</item>
+    <item name="button5" type="id">button5</item>
+</resources>
